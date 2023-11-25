@@ -1,0 +1,15 @@
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\bin\Debug\net8.0\Factory1.exe
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\bin\Debug\net8.0\Factory1.deps.json
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\bin\Debug\net8.0\Factory1.runtimeconfig.json
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\bin\Debug\net8.0\Factory1.dll
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\bin\Debug\net8.0\Factory1.pdb
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\Factory1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\Factory1.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\Factory1.AssemblyInfo.cs
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\Factory1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\Factory1.sourcelink.json
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\Factory1.dll
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\refint\Factory1.dll
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\Factory1.pdb
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\Factory1.genruntimeconfig.cache
+C:\Users\nguye\Downloads\baitap\Factory1\Factory1\obj\Debug\net8.0\ref\Factory1.dll
