@@ -1,0 +1,14 @@
+C:\Users\nguye\Downloads\baitap\vd22\vd22\bin\Debug\net8.0\vd22.exe
+C:\Users\nguye\Downloads\baitap\vd22\vd22\bin\Debug\net8.0\vd22.deps.json
+C:\Users\nguye\Downloads\baitap\vd22\vd22\bin\Debug\net8.0\vd22.runtimeconfig.json
+C:\Users\nguye\Downloads\baitap\vd22\vd22\bin\Debug\net8.0\vd22.dll
+C:\Users\nguye\Downloads\baitap\vd22\vd22\bin\Debug\net8.0\vd22.pdb
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\vd22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\vd22.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\vd22.AssemblyInfo.cs
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\vd22.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\vd22.dll
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\refint\vd22.dll
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\vd22.pdb
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\vd22.genruntimeconfig.cache
+C:\Users\nguye\Downloads\baitap\vd22\vd22\obj\Debug\net8.0\ref\vd22.dll
